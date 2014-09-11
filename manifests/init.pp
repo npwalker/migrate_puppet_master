@@ -21,6 +21,8 @@
 #
 # Copyright 2013 Nick Walker, unless otherwise noted.
 #
+# This comment is a test comment.
+# Added sufficiency.
 class migrate_puppet_master {
 
   ini_setting { "puppet_conf_agent_server_setting":
